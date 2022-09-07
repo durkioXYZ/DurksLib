@@ -60,4 +60,4 @@ local slider1 = c1:CreateSlider({
 })
 ```
 
-# to change a container on something change c1 to c2
+# to add a item to the other container change c1 to c2
