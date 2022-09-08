@@ -61,3 +61,14 @@ local slider1 = c1:CreateSlider({
 	end,
 })
 ```
+#creating a dropdown
+
+```lua
+local dd1 = c1:CreateDropDown({
+	Name = "dropdownyo",
+	Items = {"item1", "item2"},
+	CallBack = function(value)
+		print(value)
+	end,
+})
+```
