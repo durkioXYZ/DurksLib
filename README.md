@@ -3,7 +3,7 @@
 # Starting the library
 
 ```lua
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/idonthaveoneatm/Libraries/normal/DurksLib/Library.lua", true))()
+local DurksLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/durkioXYZ/DurksLib/main/DurksLib.lua", true))()
 ```
 
 
