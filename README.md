@@ -24,6 +24,8 @@ local w1 = ui:CreateWindow("Atest1")
 ```lua
 local c1 = w1:CreateContainer("container1")
 --[[local c2 = w1:CreateContainer("container2")]]--
+
+--[[to add a item to the other container change c1 to c2]]--
 ```
 
 # Creating a Button
@@ -59,5 +61,3 @@ local slider1 = c1:CreateSlider({
 	end,
 })
 ```
-
-# to add a item to the other container change c1 to c2
